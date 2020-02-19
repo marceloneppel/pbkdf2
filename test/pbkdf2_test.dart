@@ -1,4 +1,4 @@
-import 'package:pbkdf2/pbkdf2.dart';
+import 'package:pbkdf2_dart/pbkdf2.dart';
 import 'package:test/test.dart';
 import 'package:crypto/crypto.dart';
 

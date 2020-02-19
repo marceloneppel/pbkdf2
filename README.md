@@ -1,4 +1,4 @@
-pbkdf2
+pbkdf2_dart
 ======
 
 This is an implementation of the PBKDF2 key derivation function, as defined

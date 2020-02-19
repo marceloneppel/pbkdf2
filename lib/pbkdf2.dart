@@ -1,4 +1,4 @@
-library pbkdf2;
+library pbkdf2_dart;
 
 import 'package:crypto/crypto.dart';
 import 'dart:convert';
